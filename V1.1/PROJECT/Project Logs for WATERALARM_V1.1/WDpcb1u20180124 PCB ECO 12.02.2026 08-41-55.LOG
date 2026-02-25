@@ -1,0 +1,173 @@
+Removed Pin From Net: NetName=3V3 Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=3V3 Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=L1-1
+Removed Pin From Net: NetName=GND Pin=L2-1
+Removed Pin From Net: NetName=GND Pin=L3-1
+Removed Pin From Net: NetName=3V3 Pin=PROG-1
+Removed Pin From Net: NetName=GND Pin=PROG-2
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=3V3 Pin=RLY1-16
+Removed Pin From Net: NetName=GND Pin=U1-GND
+Removed Pin From Net: NetName=3V3 Pin=U1-VCC
+Removed Pin From Net: NetName=3V3 Pin=U2-1
+Change Component Footprint: Designator=J1 Old Footprint=10 pin Terminal sping loaded New Footprint=11 pin Terminal sping loaded
+Change Component Footprint: Designator=D1 Old Footprint=DO-214AC(SMA) New Footprint=SMA
+Change Footprint: Footprint Not Found ABSM-1574
+Change Component Footprint: Designator=RLY1 Old Footprint=relay 5v tetecom New Footprint=JW2SNDC5V
+Change Component Comment : Designator=R1 Old Comment=CAP110050319E New Comment=0805S8J0103T5E
+Change Component Comment : Designator=R2 Old Comment=CAP110050319E New Comment=0805S8J0103T5E
+Change Component Comment : Designator=C2 Old Comment=CAP110050456E New Comment=CL21A475KBQNNNE
+Change Component Comment : Designator=C4 Old Comment=CAP110050456E New Comment=CL21A475KBQNNNE
+Change Component Comment : Designator=C6 Old Comment=CAP110050456E New Comment=CL21A475KBQNNNE
+Change Component Comment : Designator=C1 Old Comment=CAP110050456E New Comment=CL21B104KBCNNNL
+Change Component Comment : Designator=C3 Old Comment=CAP110050456E New Comment=CL21B104KBCNNNL
+Change Component Comment : Designator=C5 Old Comment=CAP110050456E New Comment=CL21B104KBCNNNL
+Change Component Comment : Designator=J1 Old Comment=Comment New Comment=DG250-3.5-11P
+Change Component Comment : Designator=BZ1 Old Comment=Comment New Comment=EPT-14A4009P050D
+Change Component Comment : Designator=RLY1 Old Comment=Comment New Comment=JW2SN-DC5V
+Change Component Comment : Designator=U2 Old Comment=Comment New Comment=L78L33ACUTR
+Change Component Comment : Designator=VR1 Old Comment=Comment New Comment=L-KLS4-WH06-2A-103
+Change Component Comment : Designator=SW1 Old Comment=Comment New Comment=L-KLS7-SS-12F20A-G5
+Change Component Comment : Designator=R3 Old Comment=Comment New Comment=RI1210L122JT
+Change Component Comment : Designator=U1 Old Comment=Comment New Comment=STM8L051F3P6TR
+Change Component Comment : Designator=D1 Old Comment=SMAJ33CA New Comment=US1D_R1_00001
+Change Component Comment : Designator=Q1 Old Comment=TRS0BC817001 New Comment=BC817-40,215
+Change Component Comment : Designator=Q2 Old Comment=TRS0BC817001 New Comment=BC817-40,215
+Change component parameters: Designator = "RLY1" ("RLY1"); Footprint = "relay 5v tetecom"; UniqueID = "\RONQBION" ("\RONQBION")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "JW2SN-DC5V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "TSSOP20"; UniqueID = "\KNPIDYVD" ("\KNPIDYVD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "STM8L051F3P6TR"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SMA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/pub_link/Collateral/MURA160T3-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "US1D_R1_00001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200V 1A"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SMA)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/pub_link/Collateral/MURA160T3-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "US1D_R1_00001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200V 1A"; VariantName = "[No Variations]"
+Added Component: Designator=D4(DIONM5127X250N)
+Add component (AddParameter): Name = "Height"; Value = "2.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "YAGEO"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SMAJ36CA/TR7"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "58.1V"; VariantName = "[No Variations]"
+Added Component: Designator=LED1(led 3mm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "STRONG BASE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3R4HD-7-TB"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(led 3mm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "STRONG BASE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3R4HD-7-TB"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(led 3mm)
+Add component (AddParameter): Name = "Manufacturer"; Value = "STRONG BASE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "3R4HD-7-TB"; VariantName = "[No Variations]"
+Added Component: Designator=P1(HDR1X3)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=VAR1(ERZV05D180)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic "; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERZ-V05D560"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "ERZ-V05D560"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Varistor Voltage"; Value = "56 V"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin BZ1-1A
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=3V3 Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=3V3 Pin=C2-2
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=GND Pin=LED3-2
+Added Pin To Net: NetName=3V3 Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=3V3 Pin=RLY1-8
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Added Pin To Net: NetName=3V3 Pin=U2-3
+Added Pin To Net: NetName=GND Pin=VAR1-1
+Change Net Name : Old Net Name=3V3 New Net Name=VCC
+Change Net Name : Old Net Name=NewNet8 New Net Name=NetBZ1_1
+Added Pin To Net: NetName=24V Pin=D1-2
+Added Pin To Net: NetName=24V Pin=J1-1
+Added Pin To Net: NetName=24V Pin=SW1-1
+Added Net: Name=24V
+Added Pin To Net: NetName=ADJ Pin=VR1-3
+Added Net: Name=ADJ
+Added Pin To Net: NetName=BUZ Pin=R1-2
+Added Net: Name=BUZ
+Added Pin To Net: NetName=COM Pin=J1-9
+Added Pin To Net: NetName=COM Pin=RLY1-3
+Added Pin To Net: NetName=COM Pin=RLY1-6
+Added Net: Name=COM
+Added Pin To Net: NetName=IN L1 Pin=J1-6
+Added Net: Name=IN L1
+Added Pin To Net: NetName=IN L2 Pin=J1-7
+Added Net: Name=IN L2
+Added Pin To Net: NetName=IN L3 Pin=J1-8
+Added Net: Name=IN L3
+Added Pin To Net: NetName=L1 Pin=LED1-1
+Added Net: Name=L1
+Added Pin To Net: NetName=L2 Pin=LED2-1
+Added Net: Name=L2
+Added Pin To Net: NetName=L3 Pin=LED3-1
+Added Net: Name=L3
+Added Pin To Net: NetName=NC Pin=J1-10
+Added Pin To Net: NetName=NC Pin=RLY1-2
+Added Pin To Net: NetName=NC Pin=RLY1-7
+Added Net: Name=NC
+Added Pin To Net: NetName=NetBZ1_2 Pin=BZ1-2
+Added Pin To Net: NetName=NetBZ1_2 Pin=Q1-1
+Added Pin To Net: NetName=NetBZ1_2 Pin=R3-1
+Added Net: Name=NetBZ1_2
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=C4-2
+Added Pin To Net: NetName=NetC3_2 Pin=D3-1
+Added Pin To Net: NetName=NetC3_2 Pin=D4-2
+Added Pin To Net: NetName=NetC3_2 Pin=U2-1
+Added Pin To Net: NetName=NetC3_2 Pin=VAR1-2
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=D2-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=D3-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R1-1
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=RLY1-1
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R2-1
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NO Pin=J1-11
+Added Pin To Net: NetName=NO Pin=RLY1-4
+Added Pin To Net: NetName=NO Pin=RLY1-5
+Added Net: Name=NO
+Added Pin To Net: NetName=RLY Pin=R2-2
+Added Net: Name=RLY
+Added Pin To Net: NetName=SWIM Pin=P1-3
+Added Net: Name=SWIM
+Added Member To Class: ClassName=Sheet1_WATERALARM Member=Component D2 US1D_R1_00001
+Added Member To Class: ClassName=Sheet1_WATERALARM Member=Component D3 US1D_R1_00001
+Added Member To Class: ClassName=Sheet1_WATERALARM Member=Component D4 SMAJ36CA/TR7
+Added Member To Class: ClassName=Sheet1_WATERALARM Member=Component LED1 3R4HD-7-TB
+Added Member To Class: ClassName=Sheet1_WATERALARM Member=Component LED2 3R4HD-7-TB
+Added Member To Class: ClassName=Sheet1_WATERALARM Member=Component LED3 3R4HD-7-TB
+Added Member To Class: ClassName=Sheet1_WATERALARM Member=Component P1 PROGRAMMING
+Added Member To Class: ClassName=Sheet1_WATERALARM Member=Component U1 STM8L051F3P6TR
+Added Member To Class: ClassName=Sheet1_WATERALARM Member=Component VAR1 ERZ-V05D560
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2

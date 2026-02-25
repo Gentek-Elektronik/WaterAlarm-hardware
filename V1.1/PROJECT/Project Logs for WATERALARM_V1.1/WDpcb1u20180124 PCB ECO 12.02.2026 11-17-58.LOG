@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetBZ1_2 Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Add Component: Footprint Not Found SOT95P230X110-3N
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetBZ1_2 Pin=Q1-3
+Add Class Member: Failed to add class member : Component Q? BC817,215

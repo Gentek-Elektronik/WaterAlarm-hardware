@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=24V Pin=J1-1
+Removed Pin From Net: NetName=24V Pin=SW1-1
+Change Net Name : Old Net Name=24V New Net Name=C
+Change Net Name : Old Net Name=NetC3_2 New Net Name=24V
+Added Pin To Net: NetName=24V_IN Pin=J1-1
+Added Net: Name=24V_IN
+Added Rule: Name=Schematic Supply Nets_3
+Added Rule: Name=Schematic Supply Nets_4

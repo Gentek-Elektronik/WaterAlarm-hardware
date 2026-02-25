@@ -1,0 +1,44 @@
+Altium Designer Pick and Place Locations
+C:\Users\byali\Downloads\1_Water_Leak_Detector\1_Water_Leak_Detector\V1.1\PROJECT\..\GERBERS-ASSY FILES\Pick Place\Pick Place for WaterAlarm_V1.1.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       12.02.26
+Time:       13:26
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment             Layer    Footprint                    Center-X(mm) Center-Y(mm) Rotation Description                                                    
+FD4        FIDUCIAL_30MIL      TopLayer FIDUCIAL_30MIL               2.5000       61.8000      90       FD                                                             
+FD3        FIDUCIAL_30MIL      TopLayer FIDUCIAL_30MIL               78.2000      57.6000      90       FD                                                             
+FD2        FIDUCIAL_30MIL      TopLayer FIDUCIAL_30MIL               0.0000       0.0000       90       FD                                                             
+FD1        FIDUCIAL_30MIL      TopLayer FIDUCIAL_30MIL               16.8000      6.8000       90       FD                                                             
+C2         CL21A475KBQNNNE     TopLayer C0805-N                      49.1028      62.1082      90       "MLCC (2012) 0805 4.7uF 50VDC ±10% X5R"                        
+U1         STM8L051F3P6TR      TopLayer SOP65P640X120-20N            41.2796      61.4732      180      "Integrated Circuit"                                           
+VAR1       ERZ-V05D560         TopLayer ERZV05D180                   3.7530       36.6962      180      "56 V 250 A Varistor 1 Circuit Through Hole Disc 7mm"          
+P1         PROGRAMMING         TopLayer HDR1X3                       47.4772      56.2408      270      "Header, 3-Pin"                                                
+LED3       3R4HD-7-TB          TopLayer led_3mm                      56.1830      53.4980      270      "LED 3MM RED 30mcd 35° RED/DIFFUSED"                           
+LED2       3R4HD-7-TB          TopLayer led_3mm                      41.1830      53.4980      270      "LED 3MM RED 30mcd 35° RED/DIFFUSED"                           
+LED1       3R4HD-7-TB          TopLayer led_3mm                      26.1830      53.4980      270      "LED 3MM RED 30mcd 35° RED/DIFFUSED"                           
+D4         SMAJ36CA/TR7        TopLayer DIONM5127X250N               5.5418       40.8992      180      "58.1V Clamp 6.9A Ipp Tvs Diode Surface Mount DO-214AC (SMA)"  
+D3         US1D_R1_00001       TopLayer SMA                          9.1994       46.0808      270      "DIODE U.FAST SINGLE 1A 200V DO214AC (SMA) SMT"                
+D2         US1D_R1_00001       TopLayer SMA                          5.5418       46.4110      90       "DIODE U.FAST SINGLE 1A 200V DO214AC (SMA) SMT"                
+C3         CL21B104KBCNNNL     TopLayer C0805-N                      4.8734       58.1492      90       "MLCC (2012) 0805 100nF 50VDC ±10% X7R"                        
+C4         CL21A475KBQNNNE     TopLayer C0805-N                      6.9816       58.1492      90       "MLCC (2012) 0805 4.7uF 50VDC ±10% X5R"                        
+C5         CL21B104KBCNNNL     TopLayer C0805-N                      14.6778      58.1856      90       "MLCC (2012) 0805 100nF 50VDC ±10% X7R"                        
+C1         CL21B104KBCNNNL     TopLayer C0805-N                      47.0454      62.1336      90       "MLCC (2012) 0805 100nF 50VDC ±10% X7R"                        
+C6         CL21A475KBQNNNE     TopLayer C0805-N                      16.7860      58.2110      90       "MLCC (2012) 0805 4.7uF 50VDC ±10% X5R"                        
+D1         US1D_R1_00001       TopLayer SMA                          1.9096       46.0808      270      "DIODE U.FAST SINGLE 1A 200V DO214AC (SMA) SMT"                
+Q2         BC817-40,215        TopLayer SOT-23                       14.7104      49.4144      180      "TRANSISTOR DIS.500mA 45V NPN SOT23 GEN. SMT"                  
+SW1        L-KLS7-SS-12F20A-G5 TopLayer Slide_Switch                 48.4678      40.4674      90       "SWITCH SLIDE 1P2T 500mA 50V On-On THT V/T"                    
+BZ1        EPT-14A4009P050D    TopLayer piezo_buzzer                 69.8292      56.9520      90       "BUZZER PIEZO W/O CIRCUIT 9V 4-KHZ THT"                        
+RLY1       JW2SN-DC5V          TopLayer JW2SNDC5V                    28.0100      40.8646      0        "General Purpose Relay DPDT (2 Form C) 5VDC Coil Through Hole" 
+J1         DG250-3.5-11P       TopLayer 11_pin_Terminal_sping_loaded 19.9080      29.0730      0        "TERM.BLK.3.50MM 11P PCB TYPE GRAY GAOSONG"                    
+R2         0805S8J0103T5E      TopLayer C0805-N                      14.9398      52.2022      180      "RES.(2012) 0805 10K Ohms 5% 1/8W-S 100PPM"                    
+R1         0805S8J0103T5E      TopLayer C0805-N                      56.5196      59.3904      180      "RES.(2012) 0805 10K Ohms 5% 1/8W-S 100PPM"                    
+Q1         BC817-40,215        TopLayer SOT-23                       60.1264      58.8062      270      "TRANSISTOR DIS.500mA 45V NPN SOT23 GEN. SMT"                  
+VR1        L-KLS4-WH06-2A-103  TopLayer Potentiometer                5.8720       9.7588       0        "TRIMPOT CARBON V 6MM 10K"                                     
+U2         L78L33ACUTR         TopLayer SOT89M                       10.9252      60.4848      90       "IC-78L33 VOLTAGE REGULATOR 3.3V 100mA SOT89 ST"               
+R3         RI1210L122JT        TopLayer C1210                        60.0502      62.8448      90       "RES.(3225) 1210 1.2K Ohms 5% 1/2W 200PPM"                     

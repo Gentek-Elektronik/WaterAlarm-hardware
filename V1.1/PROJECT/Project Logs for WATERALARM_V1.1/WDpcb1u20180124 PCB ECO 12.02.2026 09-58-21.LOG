@@ -1,0 +1,24 @@
+Change Footprint: Footprint Not Found SOP65P640X120-20N
+Change component parameters: Designator = "U1" ("U1"); Footprint = "TSSOP20"; UniqueID = "\PPFRZIXB" ("\PPFRZIXB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "STM8L051F3P6TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stm8l051f3p6tr/stmicroelectronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/stm8l051f3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM8L051F3P6TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-STM8L051F3P6TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM8L051F3P6TR?qs=jgnmLK5BaiFksEdVQwFp7A%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin BZ1-1A
+Add Pin To Net: Unknown Pin: Pin BZ1-2A
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-16
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U1-20

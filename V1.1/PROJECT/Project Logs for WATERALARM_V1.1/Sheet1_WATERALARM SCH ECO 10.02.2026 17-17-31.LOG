@@ -1,0 +1,474 @@
+Removed Parameter Code_JEDEC:DO-204-AH from Part D1
+Removed Parameter Code_JEDEC:TO-226-AA from Part Q1
+Removed Parameter Code_JEDEC:TO-226-AA from Part Q2
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part BZ1
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part D1
+Removed Parameter ComponentLink1Description:Manufacturer Link from Part S?
+Removed Parameter ComponentLink1URL:http://www.apem.com from Part S?
+Removed Parameter ComponentLink1URL:http://www.fairchildsemi.com/ from Part D1
+Removed Parameter ComponentLink1URL:http://www.megastar.com/linecard/buzzmode/index.php from Part BZ1
+Removed Parameter ComponentLink2Description:Datasheet from Part D1
+Removed Parameter ComponentLink2URL:http://www.fairchildsemi.com/ds/1N%2F1N4148.pdf from Part D1
+Removed Parameter Contact:1m from Implementation SIM DPDTRELAY
+Removed Parameter Created:1/08/1993 from Implementation PCBLIB RAD-0.3
+Removed Parameter Created:1/08/1993 from Implementation PCBLIB RAD-0.3
+Removed Parameter Created:1/08/1993 from Implementation PCBLIB RAD-0.3
+Removed Parameter Created:1/08/1993 from Implementation PCBLIB RAD-0.3
+Removed Parameter Created:1/08/1993 from Implementation PCBLIB RAD-0.3
+Removed Parameter Created:1/08/1993 from Implementation PCBLIB RAD-0.3
+Removed Parameter Created:1/08/1993 from Implementation PCBLIB AXIAL-0.3
+Removed Parameter Created:1/08/1993 from Implementation PCBLIB AXIAL-0.3
+Removed Parameter Created:1/08/1993 from Implementation PCBLIB AXIAL-0.3
+Removed Parameter Created:1/08/1993 from Implementation PCBLIB VR3
+Removed Parameter Created:10/07/2008 from Implementation PCBLIB D2PAK_N
+Removed Parameter Created:17/12/2003 from Implementation PCBLIB ABSM-1574
+Removed Parameter Created:17/12/2003 from Implementation PCBLIB TL36WW15050
+Removed Parameter Created:19/06/2002 from Implementation PCBLIB DO-35
+Removed Parameter DatasheetVersion:05-Dec-2000 from Part S?
+Removed Parameter DatasheetVersion:17-Dec-2003 from Part BZ1
+Removed Parameter DatasheetVersion:1997 from Part D1
+Removed Parameter Dropoff:0.1 from Implementation SIM DPDTRELAY
+Removed Parameter Inductance:10mH from Implementation SIM DPDTRELAY
+Removed Parameter Initial B-E Voltage: from Implementation SIM NPN
+Removed Parameter Initial B-E Voltage: from Implementation SIM NPN
+Removed Parameter Initial C-E Voltage: from Implementation SIM NPN
+Removed Parameter Initial C-E Voltage: from Implementation SIM NPN
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM CAP
+Removed Parameter Initial Voltage: from Implementation SIM 1N4148
+Removed Parameter Initial Voltage: from Implementation SIM LED2
+Removed Parameter Initial Voltage: from Implementation SIM LED2
+Removed Parameter Initial Voltage: from Implementation SIM LED2
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM CAP
+Removed Parameter Kind:General from Implementation SIM 1N4148
+Removed Parameter Kind:General from Implementation SIM LED2
+Removed Parameter Kind:General from Implementation SIM LED2
+Removed Parameter Kind:General from Implementation SIM LED2
+Removed Parameter Kind:General from Implementation SIM RESISTOR
+Removed Parameter Kind:General from Implementation SIM RESISTOR
+Removed Parameter Kind:General from Implementation SIM RESISTOR
+Removed Parameter Kind:General from Implementation SIM DPDTRELAY
+Removed Parameter Kind:General from Implementation SIM POT
+Removed Parameter Kind:Transistor from Implementation SIM NPN
+Removed Parameter Kind:Transistor from Implementation SIM NPN
+Removed Parameter LatestRevisionDate:17-Dec-2003 from Part BZ1
+Removed Parameter LatestRevisionDate:17-Dec-2003 from Part S?
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C1
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C2
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C3
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C4
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C5
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part C6
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part D1
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part J1
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part LED1
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part LED2
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part LED3
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part P1
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part Q1
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part Q2
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R1
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R2
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part R3
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part RLY1
+Removed Parameter LatestRevisionDate:17-Jul-2002 from Part VR1
+Removed Parameter LatestRevisionDate:29-May-2009 from Part U2
+Removed Parameter LatestRevisionNote:IPC-7351 Footprint Added. from Part U2
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C2
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C3
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C4
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C5
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part C6
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part D1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part J1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part LED1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part LED2
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part LED3
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part P1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part Q1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part Q2
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R2
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part R3
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part RLY1
+Removed Parameter LatestRevisionNote:Re-released for DXP Platform. from Part VR1
+Removed Parameter LatestRevisionNote:Schematic revised, PCB Footprint replaced. from Part BZ1
+Removed Parameter LatestRevisionNote:Schematic revised, PCB Footprint replaced. from Part S?
+Removed Parameter Netlist:@"DESIGNATOR"A %1 %2 {@VALUE * @"SET POSITION"}\n@"DESIGNATOR"B %2 %3 {@VALUE -(@VALUE * @"SET POSITION" )} from Implementation SIM POT
+Removed Parameter Netlist:@DESIGNATOR %1 %2 %3 %4 %5 %6 %7 %8 @MODEL #|PARAMS:| ?PULLIN|PULLIN=@PULLIN| ?DROPOFF|DROPOFF=@DROPOFF| ?CONTACT|CONTACT=@CONTACT| ?RESISTANCE|RESISTANCE=@RESISTANCE| ?INDUCTANCE|INDUCTANCE=@INDUCTANCE| from Implementation SIM DPDTRELAY
+Removed Parameter Netlist:@DESIGNATOR %1 %2 %3 @MODEL &"AREA FACTOR" &"STARTING CONDITION" ?"INITIAL B-E VOLTAGE"|IC=@"INITIAL B-E VOLTAGE", @"INITIAL C-E VOLTAGE"| ?TEMPERATURE|TEMP=@TEMPERATURE| from Implementation SIM NPN
+Removed Parameter Netlist:@DESIGNATOR %1 %2 %3 @MODEL &"AREA FACTOR" &"STARTING CONDITION" ?"INITIAL B-E VOLTAGE"|IC=@"INITIAL B-E VOLTAGE", @"INITIAL C-E VOLTAGE"| ?TEMPERATURE|TEMP=@TEMPERATURE| from Implementation SIM NPN
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @MODEL &"AREA FACTOR" &"STARTING CONDITION" ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| ?TEMPERATURE|TEMP=@TEMPERATURE| from Implementation SIM 1N4148
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @MODEL &"AREA FACTOR" &"STARTING CONDITION" ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| ?TEMPERATURE|TEMP=@TEMPERATURE| from Implementation SIM LED2
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @MODEL &"AREA FACTOR" &"STARTING CONDITION" ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| ?TEMPERATURE|TEMP=@TEMPERATURE| from Implementation SIM LED2
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @MODEL &"AREA FACTOR" &"STARTING CONDITION" ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| ?TEMPERATURE|TEMP=@TEMPERATURE| from Implementation SIM LED2
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE ?"INITIAL VOLTAGE"|IC=@"INITIAL VOLTAGE"| from Implementation SIM CAP
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE from Implementation SIM RESISTOR
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE from Implementation SIM RESISTOR
+Removed Parameter Netlist:@DESIGNATOR %1 %2 @VALUE from Implementation SIM RESISTOR
+Removed Parameter PackageDescription:3-Pin Transistor Outline Package 2.54 mm Pitch, 15.1 mm Lead Span from Part U2
+Removed Parameter PackageDescription:Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing from Part R1
+Removed Parameter PackageDescription:Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing from Part R2
+Removed Parameter PackageDescription:Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing from Part R3
+Removed Parameter PackageDescription:Diode, Axial; Body 3.8 x 1.9 mm (LxDia. max), Lead Dia. 0.53 mm (max) from Part D1
+Removed Parameter PackageDescription:Magnetic Transducer Buzzer from Part BZ1
+Removed Parameter PackageDescription:Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing from Part C1
+Removed Parameter PackageDescription:Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing from Part C2
+Removed Parameter PackageDescription:Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing from Part C3
+Removed Parameter PackageDescription:Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing from Part C4
+Removed Parameter PackageDescription:Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing from Part C5
+Removed Parameter PackageDescription:Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing from Part C6
+Removed Parameter PackageDescription:Relay; 8 Leads from Part RLY1
+Removed Parameter PackageDescription:SM LED; 2 Flat Leads from Part LED1
+Removed Parameter PackageDescription:SM LED; 2 Flat Leads from Part LED2
+Removed Parameter PackageDescription:SM LED; 2 Flat Leads from Part LED3
+Removed Parameter PackageDescription:Switch; 4 Leads from Part S?
+Removed Parameter PackageDescription:TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.8mm; Leads 0.55 x 0.51 mm (max) from Part Q1
+Removed Parameter PackageDescription:TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.8mm; Leads 0.55 x 0.51 mm (max) from Part Q2
+Removed Parameter PackageDescription:Variable Resistor, Thru-Hole; 3 Leads from Part VR1
+Removed Parameter PackageReference:3.2X1.6X1.1 from Part LED1
+Removed Parameter PackageReference:3.2X1.6X1.1 from Part LED2
+Removed Parameter PackageReference:3.2X1.6X1.1 from Part LED3
+Removed Parameter PackageReference:ABSM-1574 from Part BZ1
+Removed Parameter PackageReference:AXIAL-0.3 from Part R1
+Removed Parameter PackageReference:AXIAL-0.3 from Part R2
+Removed Parameter PackageReference:AXIAL-0.3 from Part R3
+Removed Parameter PackageReference:D2PAK from Part U2
+Removed Parameter PackageReference:DIP-P8 from Part RLY1
+Removed Parameter PackageReference:DO-35 from Part D1
+Removed Parameter PackageReference:RAD-0.3 from Part C1
+Removed Parameter PackageReference:RAD-0.3 from Part C2
+Removed Parameter PackageReference:RAD-0.3 from Part C3
+Removed Parameter PackageReference:RAD-0.3 from Part C4
+Removed Parameter PackageReference:RAD-0.3 from Part C5
+Removed Parameter PackageReference:RAD-0.3 from Part C6
+Removed Parameter PackageReference:TL36WW15050 from Part S?
+Removed Parameter PackageReference:TO-226-AA from Part Q1
+Removed Parameter PackageReference:TO-226-AA from Part Q2
+Removed Parameter PackageReference:VR3 from Part VR1
+Removed Parameter PackageVersion:Feb-2002 from Part LED1
+Removed Parameter PackageVersion:Feb-2002 from Part LED2
+Removed Parameter PackageVersion:Feb-2002 from Part LED3
+Removed Parameter Published:8-Jun-2000 from Part C1
+Removed Parameter Published:8-Jun-2000 from Part C2
+Removed Parameter Published:8-Jun-2000 from Part C3
+Removed Parameter Published:8-Jun-2000 from Part C4
+Removed Parameter Published:8-Jun-2000 from Part C5
+Removed Parameter Published:8-Jun-2000 from Part C6
+Removed Parameter Published:8-Jun-2000 from Part D1
+Removed Parameter Published:8-Jun-2000 from Part LED1
+Removed Parameter Published:8-Jun-2000 from Part LED2
+Removed Parameter Published:8-Jun-2000 from Part LED3
+Removed Parameter Published:8-Jun-2000 from Part Q1
+Removed Parameter Published:8-Jun-2000 from Part Q2
+Removed Parameter Published:8-Jun-2000 from Part R1
+Removed Parameter Published:8-Jun-2000 from Part R2
+Removed Parameter Published:8-Jun-2000 from Part R3
+Removed Parameter Published:24-Mar-1999 from Part BZ1
+Removed Parameter Published:24-Mar-1999 from Part RLY1
+Removed Parameter Published:24-Mar-1999 from Part S?
+Removed Parameter Published:24-Mar-1999 from Part U2
+Removed Parameter Published:24-Mar-1999 from Part VR1
+Removed Parameter Publisher:Altium Limited from Part BZ1
+Removed Parameter Publisher:Altium Limited from Part C1
+Removed Parameter Publisher:Altium Limited from Part C2
+Removed Parameter Publisher:Altium Limited from Part C3
+Removed Parameter Publisher:Altium Limited from Part C4
+Removed Parameter Publisher:Altium Limited from Part C5
+Removed Parameter Publisher:Altium Limited from Part C6
+Removed Parameter Publisher:Altium Limited from Part D1
+Removed Parameter Publisher:Altium Limited from Part J1
+Removed Parameter Publisher:Altium Limited from Part LED1
+Removed Parameter Publisher:Altium Limited from Part LED2
+Removed Parameter Publisher:Altium Limited from Part LED3
+Removed Parameter Publisher:Altium Limited from Part P1
+Removed Parameter Publisher:Altium Limited from Part Q1
+Removed Parameter Publisher:Altium Limited from Part Q2
+Removed Parameter Publisher:Altium Limited from Part R1
+Removed Parameter Publisher:Altium Limited from Part R2
+Removed Parameter Publisher:Altium Limited from Part R3
+Removed Parameter Publisher:Altium Limited from Part RLY1
+Removed Parameter Publisher:Altium Limited from Part S?
+Removed Parameter Publisher:Altium Limited from Part U2
+Removed Parameter Publisher:Altium Limited from Part VR1
+Removed Parameter Pullin:4 from Implementation SIM DPDTRELAY
+Removed Parameter Resistance:500 from Implementation SIM DPDTRELAY
+Removed Parameter Set Position:0.5 from Part VR1
+Removed Parameter Sim Note:Enter the Resistance value and the set point into parameter fields. from Part VR1
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:C from Implementation SIM CAP
+Removed Parameter Spice Prefix:D from Implementation SIM 1N4148
+Removed Parameter Spice Prefix:D from Implementation SIM LED2
+Removed Parameter Spice Prefix:D from Implementation SIM LED2
+Removed Parameter Spice Prefix:D from Implementation SIM LED2
+Removed Parameter Spice Prefix:Q from Implementation SIM NPN
+Removed Parameter Spice Prefix:Q from Implementation SIM NPN
+Removed Parameter Spice Prefix:R from Implementation SIM RESISTOR
+Removed Parameter Spice Prefix:R from Implementation SIM RESISTOR
+Removed Parameter Spice Prefix:R from Implementation SIM RESISTOR
+Removed Parameter Spice Prefix:R from Implementation SIM POT
+Removed Parameter Spice Prefix:X from Implementation SIM DPDTRELAY
+Removed Parameter Starting Condition: from Implementation SIM 1N4148
+Removed Parameter Starting Condition: from Implementation SIM LED2
+Removed Parameter Starting Condition: from Implementation SIM LED2
+Removed Parameter Starting Condition: from Implementation SIM LED2
+Removed Parameter Starting Condition: from Implementation SIM NPN
+Removed Parameter Starting Condition: from Implementation SIM NPN
+Removed Parameter SubKind:BJT from Implementation SIM NPN
+Removed Parameter SubKind:BJT from Implementation SIM NPN
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Capacitor from Implementation SIM CAP
+Removed Parameter SubKind:Diode from Implementation SIM 1N4148
+Removed Parameter SubKind:Diode from Implementation SIM LED2
+Removed Parameter SubKind:Diode from Implementation SIM LED2
+Removed Parameter SubKind:Diode from Implementation SIM LED2
+Removed Parameter SubKind:Potentiometer from Implementation SIM POT
+Removed Parameter SubKind:Resistor from Implementation SIM RESISTOR
+Removed Parameter SubKind:Resistor from Implementation SIM RESISTOR
+Removed Parameter SubKind:Resistor from Implementation SIM RESISTOR
+Removed Parameter SubKind:Spice Subcircuit from Implementation SIM DPDTRELAY
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI Cap
+Removed Parameter Tech: from Implementation SI 1N4148
+Removed Parameter Tech: from Implementation SI Connector
+Removed Parameter Tech: from Implementation SI Connector
+Removed Parameter Tech: from Implementation SI NPN
+Removed Parameter Tech: from Implementation SI NPN
+Removed Parameter Tech: from Implementation SI Res
+Removed Parameter Tech: from Implementation SI Res
+Removed Parameter Tech: from Implementation SI Res
+Removed Parameter Tech: from Implementation SI Res Tap
+Removed Parameter Temperature: from Implementation SIM 1N4148
+Removed Parameter Temperature: from Implementation SIM LED2
+Removed Parameter Temperature: from Implementation SIM LED2
+Removed Parameter Temperature: from Implementation SIM LED2
+Removed Parameter Temperature: from Implementation SIM NPN
+Removed Parameter Temperature: from Implementation SIM NPN
+Removed Parameter Type:BJT from Implementation SI NPN
+Removed Parameter Type:BJT from Implementation SI NPN
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Capacitor from Implementation SI Cap
+Removed Parameter Type:Connector from Implementation SI Connector
+Removed Parameter Type:Connector from Implementation SI Connector
+Removed Parameter Type:Diode from Implementation SI 1N4148
+Removed Parameter Type:Resistor from Implementation SI Res
+Removed Parameter Type:Resistor from Implementation SI Res
+Removed Parameter Type:Resistor from Implementation SI Res
+Removed Parameter Type:Resistor from Implementation SI Res Tap
+Removed Parameter Value:1K2 5% 1/3W from Part R3
+Removed Parameter Value:10K from Part R1
+Removed Parameter Value:10K from Part R2
+Removed Parameter Value:10K from Part VR1
+Removed Parameter Value:10uF from Part C2
+Removed Parameter Value:10uF from Part C4
+Removed Parameter Value:10uF from Part C6
+Removed Parameter Value:100nF from Part C1
+Removed Parameter Value:100nF from Part C3
+Removed Parameter Value:100nF from Part C5
+Change Value of Parameter Value in Implementation SIM 1N4148 Old=Area Factor New=Value
+Change Value of Parameter Value in Implementation SIM LED2 Old=Area Factor New=Value
+Change Value of Parameter Value in Implementation SIM LED2 Old=Area Factor New=Value
+Change Value of Parameter Value in Implementation SIM LED2 Old=Area Factor New=Value
+Change Value of Parameter Value in Implementation SIM NPN Old=Area Factor New=Value
+Change Value of Parameter Value in Implementation SIM NPN Old=Area Factor New=Value
+Added Parameter Manufacturer= to Implementation PCBLIB ABSM-1574
+Added Parameter Manufacturer= to Part BZ1
+Added Parameter Manufacturer= to Implementation SI Cap
+Added Parameter Manufacturer= to Implementation SIM CAP
+Added Parameter Manufacturer= to Part C1
+Added Parameter Manufacturer= to Implementation PCBLIB RAD-0.3
+Added Parameter Manufacturer= to Implementation SI Cap
+Added Parameter Manufacturer= to Implementation SIM CAP
+Added Parameter Manufacturer= to Part C2
+Added Parameter Manufacturer= to Implementation PCBLIB RAD-0.3
+Added Parameter Manufacturer= to Implementation SI Cap
+Added Parameter Manufacturer= to Implementation SIM CAP
+Added Parameter Manufacturer= to Part C3
+Added Parameter Manufacturer= to Implementation PCBLIB RAD-0.3
+Added Parameter Manufacturer= to Implementation SI Cap
+Added Parameter Manufacturer= to Implementation SIM CAP
+Added Parameter Manufacturer= to Part C4
+Added Parameter Manufacturer= to Implementation PCBLIB RAD-0.3
+Added Parameter Manufacturer= to Implementation SI Cap
+Added Parameter Manufacturer= to Implementation SIM CAP
+Added Parameter Manufacturer= to Part C5
+Added Parameter Manufacturer= to Implementation PCBLIB RAD-0.3
+Added Parameter Manufacturer= to Implementation SI Cap
+Added Parameter Manufacturer= to Implementation SIM CAP
+Added Parameter Manufacturer= to Part C6
+Added Parameter Manufacturer= to Implementation PCBLIB RAD-0.3
+Added Parameter Manufacturer= to Implementation PCBLIB DO-35
+Added Parameter Manufacturer= to Part D1
+Added Parameter Manufacturer= to Implementation SI 1N4148
+Added Parameter Manufacturer= to Implementation SIM 1N4148
+Added Parameter Manufacturer= to Implementation SI Connector
+Added Parameter Manufacturer= to Implementation PCBLIB HDR1X10
+Added Parameter Manufacturer= to Part J1
+Added Parameter Manufacturer= to Part LED1
+Added Parameter Manufacturer= to Implementation SIM LED2
+Added Parameter Manufacturer= to Part LED2
+Added Parameter Manufacturer= to Implementation SIM LED2
+Added Parameter Manufacturer= to Part LED3
+Added Parameter Manufacturer= to Implementation SIM LED2
+Added Parameter Manufacturer= to Implementation PCBLIB 3.2X1.6X1.1
+Added Parameter Manufacturer= to Implementation PCBLIB 3.2X1.6X1.1
+Added Parameter Manufacturer= to Implementation PCBLIB 3.2X1.6X1.1
+Added Parameter Manufacturer= to Implementation SI Connector
+Added Parameter Manufacturer= to Implementation PCBLIB HDR1X3
+Added Parameter Manufacturer= to Part P1
+Added Parameter Manufacturer= to Part Q1
+Added Parameter Manufacturer= to Implementation SI NPN
+Added Parameter Manufacturer= to Implementation SIM NPN
+Added Parameter Manufacturer= to Implementation PCBLIB TO-226-AA
+Added Parameter Manufacturer= to Part Q2
+Added Parameter Manufacturer= to Implementation SI NPN
+Added Parameter Manufacturer= to Implementation SIM NPN
+Added Parameter Manufacturer= to Implementation PCBLIB TO-226-AA
+Added Parameter Manufacturer= to Implementation PCBLIB AXIAL-0.3
+Added Parameter Manufacturer= to Part R1
+Added Parameter Manufacturer= to Implementation SI Res
+Added Parameter Manufacturer= to Implementation SIM RESISTOR
+Added Parameter Manufacturer= to Implementation PCBLIB AXIAL-0.3
+Added Parameter Manufacturer= to Part R2
+Added Parameter Manufacturer= to Implementation SI Res
+Added Parameter Manufacturer= to Implementation SIM RESISTOR
+Added Parameter Manufacturer= to Implementation PCBLIB AXIAL-0.3
+Added Parameter Manufacturer= to Part R3
+Added Parameter Manufacturer= to Implementation SI Res
+Added Parameter Manufacturer= to Implementation SIM RESISTOR
+Added Parameter Manufacturer= to Implementation PCBLIB DIP-P8
+Added Parameter Manufacturer= to Implementation SIM DPDTRELAY
+Added Parameter Manufacturer= to Part RLY1
+Added Parameter Manufacturer= to Part S?
+Added Parameter Manufacturer= to Implementation PCBLIB TL36WW15050
+Added Parameter Manufacturer= to Sheet 
+Added Parameter Manufacturer= to Part U1
+Added Parameter Manufacturer= to Implementation PCBLIB D2PAK_L
+Added Parameter Manufacturer= to Implementation PCBLIB D2PAK_M
+Added Parameter Manufacturer= to Implementation PCBLIB D2PAK_N
+Added Parameter Manufacturer= to Part U2
+Added Parameter Manufacturer= to Part VR1
+Added Parameter Manufacturer= to Implementation SIM POT
+Added Parameter Manufacturer= to Implementation SI Res Tap
+Added Parameter Manufacturer= to Implementation PCBLIB VR3
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB ABSM-1574
+Added Parameter Manufacturer Part Number= to Part BZ1
+Added Parameter Manufacturer Part Number= to Implementation SI Cap
+Added Parameter Manufacturer Part Number= to Implementation SIM CAP
+Added Parameter Manufacturer Part Number= to Part C1
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB RAD-0.3
+Added Parameter Manufacturer Part Number= to Implementation SI Cap
+Added Parameter Manufacturer Part Number= to Implementation SIM CAP
+Added Parameter Manufacturer Part Number= to Part C2
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB RAD-0.3
+Added Parameter Manufacturer Part Number= to Implementation SI Cap
+Added Parameter Manufacturer Part Number= to Implementation SIM CAP
+Added Parameter Manufacturer Part Number= to Part C3
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB RAD-0.3
+Added Parameter Manufacturer Part Number= to Implementation SI Cap
+Added Parameter Manufacturer Part Number= to Implementation SIM CAP
+Added Parameter Manufacturer Part Number= to Part C4
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB RAD-0.3
+Added Parameter Manufacturer Part Number= to Implementation SI Cap
+Added Parameter Manufacturer Part Number= to Implementation SIM CAP
+Added Parameter Manufacturer Part Number= to Part C5
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB RAD-0.3
+Added Parameter Manufacturer Part Number= to Implementation SI Cap
+Added Parameter Manufacturer Part Number= to Implementation SIM CAP
+Added Parameter Manufacturer Part Number= to Part C6
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB RAD-0.3
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB DO-35
+Added Parameter Manufacturer Part Number= to Part D1
+Added Parameter Manufacturer Part Number= to Implementation SI 1N4148
+Added Parameter Manufacturer Part Number= to Implementation SIM 1N4148
+Added Parameter Manufacturer Part Number= to Implementation SI Connector
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB HDR1X10
+Added Parameter Manufacturer Part Number= to Part J1
+Added Parameter Manufacturer Part Number= to Part LED1
+Added Parameter Manufacturer Part Number= to Implementation SIM LED2
+Added Parameter Manufacturer Part Number= to Part LED2
+Added Parameter Manufacturer Part Number= to Implementation SIM LED2
+Added Parameter Manufacturer Part Number= to Part LED3
+Added Parameter Manufacturer Part Number= to Implementation SIM LED2
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB 3.2X1.6X1.1
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB 3.2X1.6X1.1
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB 3.2X1.6X1.1
+Added Parameter Manufacturer Part Number= to Implementation SI Connector
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB HDR1X3
+Added Parameter Manufacturer Part Number= to Part P1
+Added Parameter Manufacturer Part Number= to Part Q1
+Added Parameter Manufacturer Part Number= to Implementation SI NPN
+Added Parameter Manufacturer Part Number= to Implementation SIM NPN
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB TO-226-AA
+Added Parameter Manufacturer Part Number= to Part Q2
+Added Parameter Manufacturer Part Number= to Implementation SI NPN
+Added Parameter Manufacturer Part Number= to Implementation SIM NPN
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB TO-226-AA
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB AXIAL-0.3
+Added Parameter Manufacturer Part Number= to Part R1
+Added Parameter Manufacturer Part Number= to Implementation SI Res
+Added Parameter Manufacturer Part Number= to Implementation SIM RESISTOR
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB AXIAL-0.3
+Added Parameter Manufacturer Part Number= to Part R2
+Added Parameter Manufacturer Part Number= to Implementation SI Res
+Added Parameter Manufacturer Part Number= to Implementation SIM RESISTOR
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB AXIAL-0.3
+Added Parameter Manufacturer Part Number= to Part R3
+Added Parameter Manufacturer Part Number= to Implementation SI Res
+Added Parameter Manufacturer Part Number= to Implementation SIM RESISTOR
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB DIP-P8
+Added Parameter Manufacturer Part Number= to Implementation SIM DPDTRELAY
+Added Parameter Manufacturer Part Number= to Part RLY1
+Added Parameter Manufacturer Part Number= to Part S?
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB TL36WW15050
+Added Parameter Manufacturer Part Number= to Sheet 
+Added Parameter Manufacturer Part Number= to Part U1
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB D2PAK_L
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB D2PAK_M
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB D2PAK_N
+Added Parameter Manufacturer Part Number= to Part U2
+Added Parameter Manufacturer Part Number= to Part VR1
+Added Parameter Manufacturer Part Number= to Implementation SIM POT
+Added Parameter Manufacturer Part Number= to Implementation SI Res Tap
+Added Parameter Manufacturer Part Number= to Implementation PCBLIB VR3
+Added Parameter Value=1K2 5% 1/3W to Part R3
+Added Parameter Value=10K to Part R1
+Added Parameter Value=10K to Part R2
+Added Parameter Value=10K to Part VR1
+Added Parameter Value=10uF to Part C2
+Added Parameter Value=10uF to Part C4
+Added Parameter Value=10uF to Part C6
+Added Parameter Value=100nF to Part C1
+Added Parameter Value=100nF to Part C3
+Added Parameter Value=100nF to Part C5

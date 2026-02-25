@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetC3_2 Pin=D4-2
+Removed Pin From Net: NetName=NetC3_2 Pin=VAR1-2
+Add Pin To Net: Unknown Pin: Pin BZ1-1A
+Add Pin To Net: Unknown Pin: Pin BZ1-2A
+Added Pin To Net: NetName=24V Pin=D4-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-16
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U1-20
+Added Pin To Net: NetName=24V Pin=VAR1-2

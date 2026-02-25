@@ -1,0 +1,26 @@
+Removed Parameter Value:1K2 5% 1/3W from Part R3
+Removed Parameter Value:10K from Part R1
+Removed Parameter Value:10K from Part R2
+Removed Parameter Value:10K from Part VR1
+Removed Parameter Value:10uF from Part C2
+Removed Parameter Value:10uF from Part C4
+Removed Parameter Value:10uF from Part C6
+Removed Parameter Value:100nF from Part C1
+Removed Parameter Value:100nF from Part C3
+Removed Parameter Value:100nF from Part C5
+Change Value of Parameter Value in Implementation SIM 1N4148 Old=Area Factor New=Value
+Change Value of Parameter Value in Implementation SIM LED2 Old=Area Factor New=Value
+Change Value of Parameter Value in Implementation SIM LED2 Old=Area Factor New=Value
+Change Value of Parameter Value in Implementation SIM LED2 Old=Area Factor New=Value
+Change Value of Parameter Value in Implementation SIM NPN Old=Area Factor New=Value
+Change Value of Parameter Value in Implementation SIM NPN Old=Area Factor New=Value
+Added Parameter Value=1K2 5% 1/3W to Part R3
+Added Parameter Value=10K to Part R1
+Added Parameter Value=10K to Part R2
+Added Parameter Value=10K to Part VR1
+Added Parameter Value=10uF to Part C2
+Added Parameter Value=10uF to Part C4
+Added Parameter Value=10uF to Part C6
+Added Parameter Value=100nF to Part C1
+Added Parameter Value=100nF to Part C3
+Added Parameter Value=100nF to Part C5

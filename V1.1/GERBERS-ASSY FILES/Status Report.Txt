@@ -1,12 +1,10 @@
-Output: NC Drill Files
-Type  : NC Drill
-From  : PCB Document [WaterAlarm_V1.1.PcbDoc]
-   Generated File[WaterAlarm_V1.1.TXT]
-   Generated File[WaterAlarm_V1.1.LDP]
-   Generated File[WaterAlarm_V1.1.DRR]
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Basic] of Project [WATERALARM_V1.1.PrjPcb]
+   Generated File[Bill of Materials-WATERALARM_V1.1(Basic).xlsx]
 
 
-Files Generated   : 3
+Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 13:26:34 On 12.02.2026
+Finished Output Generation At 13:09:05 On 25.02.2026

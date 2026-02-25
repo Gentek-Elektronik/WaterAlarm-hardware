@@ -253,93 +253,137 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[ProjectVariant1]
+UniqueId=861b8ff3-158a-4300-a5e7-52c4881007b2
+Description=Basic
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=..\GERBERS-ASSY FILES\Test Points\Assembly Testpoint Report for WaterAlarm_V1.1.csv
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=..\GERBERS-ASSY FILES\Test Points\Assembly Testpoint Report for WaterAlarm_V1.1.txt
+DocumentPath=..\GERBERS-ASSY FILES\Test Points\Assembly Testpoint Report for WaterAlarm_V1.1.csv
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=..\GERBERS-ASSY FILES\BOM\Bill of Materials-WATERALARM_V1.1.xlsx
+DocumentPath=..\GERBERS-ASSY FILES\Test Points\Assembly Testpoint Report for WaterAlarm_V1.1.txt
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for WATERALARM_V1.1\Design Rule Check - WaterAlarm_V1.html
+DocumentPath=..\GERBERS-ASSY FILES\Test Points\Assembly Testpoint Report for WaterAlarm_V1.1.txt
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for WATERALARM_V1.1\Design Rule Check - WDpcb1u20180124.html
+DocumentPath=..\GERBERS-ASSY FILES\BOM\Bill of Materials-WATERALARM_V1.1(Basic).xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=..\GERBERS-ASSY FILES\Pick Place\Pick Place for WaterAlarm_V1.1.csv
+DocumentPath=..\GERBERS-ASSY FILES\BOM\Bill of Materials-WATERALARM_V1.1.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=..\GERBERS-ASSY FILES\Pick Place\Pick Place for WaterAlarm_V1.1.txt
+DocumentPath=Project Outputs for WATERALARM_V1.1\Design Rule Check - WaterAlarm_V1.html
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=..\GERBERS-ASSY FILES\NC Drill\WaterAlarm_V1.1.DRR
+DocumentPath=Project Outputs for WATERALARM_V1.1\Design Rule Check - WDpcb1u20180124.html
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.EXTREP
+DocumentPath=..\GERBERS-ASSY FILES\Pick Place\Pick Place for WaterAlarm_V1.1(Basic).csv
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.GBL
+DocumentPath=..\GERBERS-ASSY FILES\Pick Place\Pick Place for WaterAlarm_V1.1(Basic).txt
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.GBO
+DocumentPath=..\GERBERS-ASSY FILES\Pick Place\Pick Place for WaterAlarm_V1.1.csv
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.GBP
+DocumentPath=..\GERBERS-ASSY FILES\Pick Place\Pick Place for WaterAlarm_V1.1.csv
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.GBS
+DocumentPath=..\GERBERS-ASSY FILES\Pick Place\Pick Place for WaterAlarm_V1.1.txt
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.GM1
+DocumentPath=..\GERBERS-ASSY FILES\Pick Place\Pick Place for WaterAlarm_V1.1.txt
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.GTL
+DocumentPath=..\GERBERS-ASSY FILES\NC Drill\WaterAlarm_V1.1.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.GTO
+DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.GTP
+DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.GTS
+DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=..\GERBERS-ASSY FILES\NC Drill\WaterAlarm_V1.1.LDP
+DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.REP
+DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.RUL
+DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument22]
+DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=..\GERBERS-ASSY FILES\NC Drill\WaterAlarm_V1.1.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.REP
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=..\GERBERS-ASSY FILES\Gerber\WaterAlarm_V1.1.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument29]
 DocumentPath=..\GERBERS-ASSY FILES\NC Drill\WaterAlarm_V1.1.TXT
 DItemRevisionGUID=
+
+[Parameter1]
+Name=SCHRev
+Value=AB
+
+[Parameter2]
+Name=PCBRev
+Value=V1.1
 
 [Configuration1]
 Name=Default Configuration

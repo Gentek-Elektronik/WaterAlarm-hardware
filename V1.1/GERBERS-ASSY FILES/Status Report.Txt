@@ -1,10 +1,10 @@
 Output: Bill of Materials
 Type  : BOM
 From  : Variant [Basic] of Project [WATERALARM_V1.1.PrjPcb]
-   Generated File[Bill of Materials-WATERALARM_V1.1(Basic).xlsx]
+   Generated File[//d.docs.live.net/a5eefad33a2466c6/Desktop/1.Hardware/1.ProjectsHW/2.WaterAlarm/WaterAlarm-hardware/V1.1/GERBERS-ASSY FILES/BOM/Bill of Materials-WATERALARM_V1.1(Basic).xlsx]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 13:09:05 On 25.02.2026
+Finished Output Generation At 08:59:50 On 27.02.2026

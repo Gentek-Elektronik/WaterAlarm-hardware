@@ -1,0 +1,15 @@
+Change Component Footprint: Designator=U1 Old Footprint=TSSOP20 New Footprint=SOP65P640X120-20N
+Add Pin To Net: Unknown Pin: Pin BZ1-1A
+Add Pin To Net: Unknown Pin: Pin BZ1-2A
+Added Pin To Net: NetName=SWIM Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U1-8
+Added Pin To Net: NetName=ADJ Pin=U1-10
+Added Pin To Net: NetName=BUZ Pin=U1-11
+Added Pin To Net: NetName=L1 Pin=U1-12
+Added Pin To Net: NetName=L2 Pin=U1-13
+Added Pin To Net: NetName=L3 Pin=U1-14
+Added Pin To Net: NetName=RLY Pin=U1-15
+Added Pin To Net: NetName=IN L3 Pin=U1-16
+Added Pin To Net: NetName=IN L1 Pin=U1-17
+Added Pin To Net: NetName=IN L2 Pin=U1-20

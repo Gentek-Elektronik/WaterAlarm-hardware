@@ -1,0 +1,60 @@
+Removed Pin From Net: NetName=24V Pin=U2-1
+Removed Pin From Net: NetName=VCC Pin=U2-3
+Change Component Comment : Designator=R1 Old Comment=0805S8J0103T5E New Comment=0805S8F2211T5E/0805S8J0222T5E
+Change Component Comment : Designator=R2 Old Comment=0805S8J0103T5E New Comment=0805S8F2211T5E/0805S8J0222T5E
+Change Component Comment : Designator=BZ1 Old Comment=EPT-14A4009P050D New Comment=EPT-14A4009P050D / YX-WY1470A
+Change Component Comment : Designator=VAR1 Old Comment=ERZ-V05D560 New Comment=TVR07470KSY
+Change Component Comment : Designator=D4 Old Comment=SMAJ36CA/TR7 New Comment=SMAJ36CA/TR7 / SMAJ36CA-UMW
+Change Component Comment : Designator=D1 Old Comment=US1D_R1_00001 New Comment=US1D_R1_00001 / US1D-SMA-MDD
+Change Component Comment : Designator=D2 Old Comment=US1D_R1_00001 New Comment=US1D_R1_00001 / US1D-SMA-MDD
+Change Component Comment : Designator=D3 Old Comment=US1D_R1_00001 New Comment=US1D_R1_00001 / US1D-SMA-MDD
+Change component parameters: Designator = "BZ1" ("BZ1"); Footprint = "piezo buzzer"; UniqueID = "\PLYLBEVO" ("\PLYLBEVO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SANCO / YXDZ"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "EPT-14A4009P050D / YX-WY1470A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "SMA"; UniqueID = "\VHJWLXRJ" ("\VHJWLXRJ")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/pub_link/Collateral/MURA160T3-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor /  MDD(Microdiode Semiconductor)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "US1D_R1_00001 / US1D-SMA-MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200V 1A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "SMA"; UniqueID = "\UGBBRZVS" ("\UGBBRZVS")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/pub_link/Collateral/MURA160T3-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor /  MDD(Microdiode Semiconductor)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "US1D_R1_00001 / US1D-SMA-MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200V 1A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "SMA"; UniqueID = "\KSTMMDPP" ("\KSTMMDPP")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/pub_link/Collateral/MURA160T3-D.PDF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor /  MDD(Microdiode Semiconductor)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "US1D_R1_00001 / US1D-SMA-MDD"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "200V 1A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "DIONM5127X250N"; UniqueID = "\YSZDEPHP" ("\YSZDEPHP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "YAGEO / MDD(Microdiode Semiconductor)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "SMAJ36CA/TR7 / SMAJ36CA-UMW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "58.1V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "C0805-N"; UniqueID = "\FLGUQGGO" ("\FLGUQGGO")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ROYALOHM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0805S8F2211T5E/0805S8J0222T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.21K/2.2K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "C0805-N"; UniqueID = "\HNOOTDJH" ("\HNOOTDJH")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ROYALOHM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "0805S8F2211T5E/0805S8J0222T5E"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.21K/2.2K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "SOP65P640X120-20N"; UniqueID = "\PPFRZIXB" ("\PPFRZIXB")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = "STM8L051F3P6TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stm8l051f3p6tr/stmicroelectronics?utm_currency=USD&region=nac"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.st.com/resource/en/datasheet/stm8l051f3.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "STM8L051F3P6TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "511-STM8L051F3P6TR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM8L051F3P6TR?qs=jgnmLK5BaiFksEdVQwFp7A%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VAR1" ("VAR1"); Footprint = "ERZV05D180"; UniqueID = "\CMOAOXDM" ("\CMOAOXDM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "THINKING"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "TVR07470KSY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "TVR07470KSY"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Varistor Voltage"; Value = "56 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=U2-1
+Added Pin To Net: NetName=24V Pin=U2-3
+Change Class Name : Old Net Name=Sheet1_WATERALARM New Net Name=WATERALARM_V1.2

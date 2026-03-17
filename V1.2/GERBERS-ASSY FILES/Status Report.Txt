@@ -1,0 +1,9 @@
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [Basic] of Schematic Document [WATERALARM_V1.2.SchDoc]
+
+
+Files Generated   : 0
+Documents Printed : 0
+
+Finished Output Generation At 09:41:11 On 17.03.2026
